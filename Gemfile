@@ -6,7 +6,6 @@ gem 'rails', '3.2.1'
 # gem 'rails', :git => 'git://github.com/rails/rails.git'
 
 #gem 'acts-as-taggable-on'
-gem 'will_paginate', '3.0.pre2'
 gem 'ancestry'
 gem 'stringex'
 gem 'heroku'
